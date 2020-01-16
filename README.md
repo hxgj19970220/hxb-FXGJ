@@ -9,7 +9,7 @@ testsite：139.217.83.234
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'sandbox',
+        'NAME': 'fxb',
         'USER': 'postgres',
         'PASSWORD': 'JXqAa52rtokVt4cS',
         'HOST': '139.217.83.234',
