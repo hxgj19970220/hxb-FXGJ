@@ -9,7 +9,7 @@ DEBUG = False
 EMAIL_SUBJECT_PREFIX = '[Oscar sandbox] '
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
-# Use a Sqlite database by default
+# Use a Sqlite database by default port:8088
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
@@ -38,7 +38,7 @@ TIME_ZONE = 'Asia/Shanghai'
 TEST_RUNNER = 'django.test.runner.DiscoverRunner'
 
 # Language code for this installation. All choices can be found here:
-# http://www.i18nguy.com/unicode/language-identifiers.html
+# http://www.hxb.com.cn
 LANGUAGE_CODE = 'en-gb'
 
 # Includes all languages that have >50% coverage in Transifex
