@@ -1,7 +1,7 @@
 # hxb.com.cn FXGJ
-androidmanifest
-hxb.com.cn
-sky19970220
+name:FXGJ
+form:hxb.com.cn
+author:sky19970220
 
 testsite：139.217.83.234
 
@@ -16,4 +16,3 @@ DATABASES = {
         'PORT': '',
     }
 }
-
